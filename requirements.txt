@@ -1,0 +1,3 @@
+Flask
+Requests==2.31.0
+watchdog==3.0.0
