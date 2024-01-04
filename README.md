@@ -23,11 +23,11 @@ Quick installation for Termux Android
 pkg update -y && pkg upgrade -y && pkg install git python3 cloudflared php ffmpeg && git clone https://github.com/spysight/spysight && cd spysight && git pull && pip install -r requirements.txt && python3 start.py
 ````
 
-Quick installation for Termux Android
+Quick installation for Kali Linux
 ````bash
 pkg update -y && pkg upgrade -y && pkg install git python3 php ffmpeg && git clone https://github.com/spysight/spysight && cd spysight && git pull && pip install -r requirements.txt && python3 start.py
 ````
-You should Install [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) Manualy
+On Kali Liunx You should Install [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) Manualy
 
 ### authentication 
 Require A Key Code From Author @SpySight
