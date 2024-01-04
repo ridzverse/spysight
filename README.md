@@ -10,7 +10,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠙⠋⠉⠉
 
 ```
-<img title="INSTAHACK" src="https://img.shields.io/badge/CODENAME%20-SPYSIGHT-SCRIPT?colorA=cyan&colorB=white&style=for-the-badge"> <img title="SPYSIGHT" src="https://img.shields.io/badge/VERSION%20-2.0.4-SCRIPT?colorA=cyan&colorB=white&style=for-the-badge"> 
+<img title="INSTAHACK" src="https://img.shields.io/badge/CODENAME%20-SPYSIGHT-SCRIPT?colorA=dove&colorB=cyan&style=for-the-badge"> <img title="SPYSIGHT" src="https://img.shields.io/badge/VERSION%20-1.0.0-SCRIPT?colorA=cyan&colorB=white&style=for-the-badge"> 
 
 SpySight is a CLI-based tool with complete Spying Method
 This tool can create Backdoor in jpg format, which will later request permission of camera, microphone, location and get all the informations directly in your terminal
@@ -23,11 +23,11 @@ Quick installation for Termux Android
 pkg update -y && pkg upgrade -y && pkg install git python3 cloudflared php ffmpeg && git clone https://github.com/spysight/spysight && cd spysight && git pull && pip install -r requirements.txt && python3 start.py
 ````
 
-Quick installation for Kali Linux
+Quick installation for Termux Android
 ````bash
 pkg update -y && pkg upgrade -y && pkg install git python3 php ffmpeg && git clone https://github.com/spysight/spysight && cd spysight && git pull && pip install -r requirements.txt && python3 start.py
 ````
-On Kali Liunx You should Install [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) Manualy
+You should Install [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) Manualy
 
 ### authentication 
 Require A Key Code From Author @SpySight
