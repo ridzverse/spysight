@@ -25,7 +25,7 @@ pkg update -y && pkg upgrade -y && pkg install git python3 cloudflared php ffmpe
 
 Quick installation for kali linux or WSL
 ````bash
-pkg update -y && pkg upgrade -y && pkg install git python3 php ffmpeg && git clone https://github.com/spysight/spysight && cd spysight && git pull && pip install -r requirements.txt && python3 start.py
+pkg update -y && pkg upgrade -y && pkg install git python3 php ffmpeg wget dpkg && wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && chmod +x cloudflared-linux-amd64.deb && sudo dpkg -i cloudflared-linux-amd64.deb && git clone https://github.com/ridzverse/spysight && cd spysight && git pull && pip install -r requirements.txt && python3 start.py
 ````
 In Kali You should Install [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) Manualy
 
