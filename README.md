@@ -10,7 +10,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠙⠋⠉⠉
 
 ```
-<img title="INSTAHACK" src="https://img.shields.io/badge/CODENAME%20-SPYSIGHT-SCRIPT?colorA=dove&colorB=cyan&style=for-the-badge"> <img title="SPYSIGHT" src="https://img.shields.io/badge/VERSION%20-1.0.0-SCRIPT?colorA=cyan&colorB=white&style=for-the-badge"> 
+<img title="INSTAHACK" src="https://img.shields.io/badge/CODENAME%20-SPYSIGHT-SCRIPT?colorA=dove&colorB=cyan&style=for-the-badge"> <img title="SPYSIGHT" src="https://img.shields.io/badge/VERSION%20-1.0.0-SCRIPT?colorA=dove&colorB=cyan&style=for-the-badge"> 
 
 SpySight is a CLI-based tool with complete Spying Method
 This tool can create Backdoor in jpg format, which will later request permission of camera, microphone, location and get all the informations directly in your terminal
